@@ -1,1 +1,1 @@
-# embedding-eval-data
+# Embedding Evaluation Data for South African Languages
