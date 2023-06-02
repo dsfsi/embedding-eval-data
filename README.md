@@ -21,13 +21,16 @@ See also the list of [contributors](https://github.com/dsfsi/embedding-eval-data
 
 To appear in conference proceedings
 
->@article{makgathoEmbeddings,
-	Author = {Mack Makgatho, Vukosi Marivate, Tshephisho Sefara, Valencia Wagner},
-	Journal = {Proceedings of the 2nd Workshop on Resources for African
-  Indigenous Languages},
-	Title = {Training Cross-Lingual embeddings for Setswana and Sepedi},
-	Year = {2021},
-}
+>@article{Makgatho_Marivate_Sefara_Wagner_2022, title={Training Cross-Lingual embeddings for Setswana and Sepedi}, 
+volume={3}, 
+url={https://upjournals.up.ac.za/index.php/dhasa/article/view/3822}, 
+DOI={10.55492/dhasa.v3i03.3822}, 
+number={03},
+journal={Journal of the Digital Humanities Association of Southern Africa },
+author={Makgatho, Mack and Marivate, Vukosi and Sefara, Tshephisho and Wagner, Valencia}, 
+year={2022}, 
+month={Feb.}}
 
 ## License
+Dataset is licensed under CC-BY-4.0
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
