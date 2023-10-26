@@ -2,6 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2111.06230-b31b1b.svg)](https://arxiv.org/abs/2111.06230)
 
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
+
 ## Dataset Information
 
 The datasets(Simlex and WordSim) contain pairs of Setswana and Sepedi words that have been assigned similarity ratings by humans to measure semantic relatedness. The word-pairs(Simlex and WordSim) are manually translated from English to Setswana and Sepedi. The evaluation task aims to find the degree of correlation between the scores provided by the model and the human rating, the score of the model is collected by computing the cosine similarity of corresponding vectors for word pairs.
